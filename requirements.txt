@@ -1,2 +1,2 @@
 numpy==1.18.4
-pandas
+pandas==1.0.4
